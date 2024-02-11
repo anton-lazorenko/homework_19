@@ -1,5 +1,5 @@
-let firstName = '0', secondName = '0', thirdName = 'ami'
-console.log(firstName / secondName + thirdName)
+let firstName = 'ami' 
+console.log(firstName / 0 + firstName)
 
 let aboutMe = {name: "Anton", nickname: "anton-lazorenko", phone: +380999999999, email: "html@js.net", sex: "Male", hobby: "fishing", stressResistance: true}
 let aboutMyFriend = {name: "Vlad", nickname: "Vlados", phone: +380666666666, email: "vlados@js.net", sex: "Male", hobby: "driving", stressResistance: false}
